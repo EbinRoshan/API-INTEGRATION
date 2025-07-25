@@ -63,3 +63,8 @@ While the app currently offers basic weather details, there are many ways it cou
 *Multi-language support for international users.
 
 These features would make the app more advanced and give users a richer experience.
+
+
+*OUTPUT:*
+
+https://github.com/user-attachments/assets/262ec4a7-c4b2-4f2b-88e9-e9e11830b1d8
