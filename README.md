@@ -67,4 +67,5 @@ These features would make the app more advanced and give users a richer experien
 
 *OUTPUT:*
 
-https://github.com/user-attachments/assets/262ec4a7-c4b2-4f2b-88e9-e9e11830b1d8
+<img width="1919" height="1034" alt="Image" src="https://github.com/user-attachments/assets/87df4ef9-4ece-4ec0-8126-b7cf41c61c74" />
+<img width="1919" height="982" alt="Image" src="https://github.com/user-attachments/assets/262ec4a7-c4b2-4f2b-88e9-e9e11830b1d8" />
